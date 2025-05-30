@@ -1,2 +1,7 @@
 Contributors:
-Açelya Karagül: AcyData
+
+Schanzer
+@Friedfisch19
+
+Açelya
+@AcyData
